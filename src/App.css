@@ -1,0 +1,28 @@
+.location-weather-container{
+
+  margin-top: 20px;
+
+  border: 1px solid rgb(191, 220, 187);
+margin-left: 120px;  
+}
+
+
+
+
+.weather-container{
+  max-width: 400px;
+  margin: 20px auto;
+  padding: 20px;
+  background-color: rgb(166, 203, 232);
+  border-radius: 8px;
+  box-shadow: 0 0 10px rgba(0,0,0,0.1);
+  text-align: center;
+  /* margin-top: 120px; */
+}
+.weather-info{
+  margin-top: 20px;
+  margin-left: 20px;
+}
+body{
+  background-color: rgb(140, 220, 242);
+}
